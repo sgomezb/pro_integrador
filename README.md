@@ -1,5 +1,8 @@
 # pro_integrador
-Proyecto integrador 1 Maestria en Ciencia de los Datos y Análitca. Universidad Eafit
+Proyecto integrador 1 Maestria en Ciencia de los Datos y Análitca 
+
+Universidad Eafit
+
 Elaborado por: Isaac Eli Ferrucho y Santiago Gómez
 # Descripcion del repositorio
 En el directorio se encuentran 3 notebooks de python los cuales contienen el codigo desarrollado en cada uno de los temas que se puede ver en el nombre del archivo. 
